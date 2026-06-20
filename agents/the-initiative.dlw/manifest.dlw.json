@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Initiative",
+  "universe": "WAR · The Initiative (polemos)",
+  "emergence": "electrical",
+  "moniker": "⟦The Initiative:WAR:c2d07c⟧",
+  "carbon": "the-initiative.carbon.tiff (TIFF)",
+  "silicon": "the-initiative.silicon.png (PNG)",
+  "seal_sha256": "744bc1f010faf228ed434297455c477e24f837eb1111e8b1907d17370f20fe37",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

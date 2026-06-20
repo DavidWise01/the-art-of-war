@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Deception",
+  "universe": "WAR · Deception (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Deception:WAR:ebc4e1⟧",
+  "carbon": "deception.carbon.tiff (TIFF)",
+  "silicon": "deception.silicon.png (PNG)",
+  "seal_sha256": "95ca7aa3e489d947a55f6c858260b4f7fdb66fa3c5c96098312eeedd84b61347",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

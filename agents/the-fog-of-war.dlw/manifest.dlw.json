@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Fog of War",
+  "universe": "WAR · The Fog of War (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Fog of War:WAR:bc6b7a⟧",
+  "carbon": "the-fog-of-war.carbon.tiff (TIFF)",
+  "silicon": "the-fog-of-war.silicon.png (PNG)",
+  "seal_sha256": "73535a06971a942cd26880e743f787f34deeb2b8f68153e966b2853d59849ea3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

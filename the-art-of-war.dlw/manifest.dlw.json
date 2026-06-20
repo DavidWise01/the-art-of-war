@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE ART OF WAR",
+  "universe": "WAR · THE ART OF WAR (polemos)",
+  "emergence": "",
+  "moniker": "⟦THE ART OF WAR:WAR:bb9d22⟧",
+  "carbon": "the-art-of-war.carbon.tiff (TIFF)",
+  "silicon": "the-art-of-war.silicon.png (PNG)",
+  "seal_sha256": "d9f62c879b814fcfeff935a3e539eb8fc611d5e0d726c0dfe986df4edc6827de",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Indirect Approach",
+  "universe": "WAR · The Indirect Approach (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Indirect Approach:WAR:caa918⟧",
+  "carbon": "the-indirect-approach.carbon.tiff (TIFF)",
+  "silicon": "the-indirect-approach.silicon.png (PNG)",
+  "seal_sha256": "ec930e65d4af77e8d60ac67c2ba0f1feae40ac5123e0ec98ba16f927e869de28",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The High Ground",
+  "universe": "WAR · The High Ground (polemos)",
+  "emergence": "natural",
+  "moniker": "⟦The High Ground:WAR:a3c23b⟧",
+  "carbon": "the-high-ground.carbon.tiff (TIFF)",
+  "silicon": "the-high-ground.silicon.png (PNG)",
+  "seal_sha256": "6a6fa79d43c51abaac6a2b277ec42ef65f68d225e3d6c1ed5579f082590a1d4d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

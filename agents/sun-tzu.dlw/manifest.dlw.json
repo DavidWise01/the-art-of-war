@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Sun Tzu",
+  "universe": "WAR · Sun Tzu (polemos)",
+  "emergence": "spiritual",
+  "moniker": "⟦Sun Tzu:WAR:c3c49d⟧",
+  "carbon": "sun-tzu.carbon.tiff (TIFF)",
+  "silicon": "sun-tzu.silicon.png (PNG)",
+  "seal_sha256": "a1cacf7c1e520c2e1c4bd44826ca88b7fd6d974eae432da1f718aa35345d32ba",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

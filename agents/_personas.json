@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "sun-tzu",
+    "name": "Sun Tzu",
+    "epithet": "win without fighting, 5th c. BCE · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Sun Tzu:WAR:c3c49d⟧"
+  },
+  {
+    "slug": "clausewitz",
+    "name": "Carl von Clausewitz",
+    "epithet": "war as policy, 1780–1831 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Carl von Clausewitz:WAR:6e3e9e⟧"
+  },
+  {
+    "slug": "the-indirect-approach",
+    "name": "The Indirect Approach",
+    "epithet": "strike where they aren't · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Indirect Approach:WAR:caa918⟧"
+  },
+  {
+    "slug": "friction",
+    "name": "Friction",
+    "epithet": "everything is harder · natural",
+    "emergence": "natural",
+    "moniker": "⟦Friction:WAR:5193c6⟧"
+  },
+  {
+    "slug": "the-fog-of-war",
+    "name": "The Fog of War",
+    "epithet": "you never know enough · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Fog of War:WAR:bc6b7a⟧"
+  },
+  {
+    "slug": "the-flanking-maneuver",
+    "name": "The Flanking Maneuver",
+    "epithet": "hit the side, not the front · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Flanking Maneuver:WAR:9ec297⟧"
+  },
+  {
+    "slug": "the-high-ground",
+    "name": "The High Ground",
+    "epithet": "terrain as advantage · natural",
+    "emergence": "natural",
+    "moniker": "⟦The High Ground:WAR:a3c23b⟧"
+  },
+  {
+    "slug": "deception",
+    "name": "Deception",
+    "epithet": "make them see what isn't · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Deception:WAR:ebc4e1⟧"
+  },
+  {
+    "slug": "war-as-policy",
+    "name": "War as Policy",
+    "epithet": "a tool, not a thing · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦War as Policy:WAR:4baa51⟧"
+  },
+  {
+    "slug": "the-initiative",
+    "name": "The Initiative",
+    "epithet": "make them react to you · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Initiative:WAR:c2d07c⟧"
+  }
+]

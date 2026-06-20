@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Flanking Maneuver",
+  "universe": "WAR · The Flanking Maneuver (polemos)",
+  "emergence": "natural",
+  "moniker": "⟦The Flanking Maneuver:WAR:9ec297⟧",
+  "carbon": "the-flanking-maneuver.carbon.tiff (TIFF)",
+  "silicon": "the-flanking-maneuver.silicon.png (PNG)",
+  "seal_sha256": "8806b6f8f551bdd4724760a555be7deae07aa1a2b3d6aaf0e63a028afca5fe1a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
